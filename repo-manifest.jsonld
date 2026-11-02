@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anthropics/redis-py/commit/04589d47d6f575e1ebcd2a0fe8ff85e02d42859b",
       "git:hexsha": "04589d47d6f575e1ebcd2a0fe8ff85e02d42859b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
